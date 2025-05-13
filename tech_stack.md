@@ -1,0 +1,5 @@
+- 前端：React.js
+- 后端：Python + Flask
+- NLP引擎：HuggingFace Transformers (BioBERT)
+- 规则引擎：自定义Python规则库
+- 数据库：MongoDB (存储非结构化数据)
